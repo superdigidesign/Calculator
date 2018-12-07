@@ -1,2 +1,2 @@
 # Calculator
-Calculator programmed with Java
+Calculator I programmed with Java this week in class.
